@@ -1,0 +1,16 @@
+.homepagetype {
+  width: 100%;
+  line-height: 1.2;
+}
+
+.homepagetype img {
+  width: 250px;
+  height: 200px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.homepagetype div p:first-child {
+  font-weight: bold;
+  font-size: 24px;
+}

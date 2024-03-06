@@ -1,0 +1,19 @@
+li {
+  display: inline-block;
+  margin: 10px 0;
+  padding: 8px;
+}
+
+.navbar-list__first {
+  border: 1.5px solid white;
+  border-radius: 20px;
+}
+
+li i {
+  margin-right: 12px;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,84 @@
+.search-list {
+  margin: 20px 0;
+  border: 1px solid rgb(185, 185, 185);
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  position: relative;
+}
+
+.search-list img {
+  width: 300px;
+  height: 300px;
+}
+
+.search-content {
+  margin: 0 20px;
+  line-height: 2.5;
+}
+
+.search-content p {
+  font-size: 16px;
+}
+
+.search-content h2 {
+  color: rgb(0, 113, 194);
+}
+
+.tag {
+  color: white;
+  background: rgb(0, 128, 9);
+  border-radius: 5px;
+  width: max-content;
+}
+
+.description {
+  font-weight: bold;
+}
+
+.free-cancellation {
+  color: rgb(0, 128, 9);
+  font-weight: bold;
+}
+
+#cancellation {
+  color: rgb(0, 128, 9);
+  font-size: 14px;
+}
+
+.rate- {
+  display: flex;
+  justify-content: space-between;
+  width: 270px;
+}
+
+.rate- h3:last-child {
+  background: rgb(0, 53, 128);
+  color: white;
+}
+
+.price- {
+  text-align: end;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  line-height: 2;
+}
+
+.price- button {
+  background: rgb(0, 113, 194);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.includes {
+  font-size: 14px;
+  color: rgb(185, 185, 185);
+}

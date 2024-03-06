@@ -1,0 +1,15 @@
+.content-footer li a {
+  color: rgb(0, 113, 194);
+  font-size: 14px;
+}
+
+.content-footer li {
+  display: block;
+}
+.content-footer {
+  line-height: 0.5;
+}
+.container-footer {
+  display: flex;
+  justify-content: space-between;
+}

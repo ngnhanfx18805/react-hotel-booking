@@ -1,0 +1,78 @@
+.detail {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  line-height: 2;
+}
+
+.detail button {
+  height: max-content;
+}
+
+.image-- {
+  margin: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 5px;
+}
+
+.image-- img {
+  width: 440px;
+}
+
+.title- {
+  display: flex;
+  margin: 10px;
+  line-height: 1.5;
+}
+
+.title-- h1 {
+  margin-bottom: 20px;
+}
+
+.address {
+  font-size: 14px;
+}
+
+.distance- {
+  color: rgb(0, 113, 194);
+}
+
+.price--- {
+  color: rgb(80, 137, 39);
+}
+
+.detail button {
+  margin: 20px;
+  background: rgb(0, 113, 194);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.content-detail {
+  background: rgb(235, 243, 255);
+}
+
+.content-detail h3 {
+  color: rgb(85, 85, 85);
+  width: max-content;
+}
+
+.content-detail p {
+  padding: 12px 24px;
+}
+
+.money {
+  font-size: 28px;
+}
+
+.content-detail button {
+  margin: 20px;
+  background: rgb(0, 113, 194);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+}

@@ -1,0 +1,16 @@
+.home-nav {
+  background-color: rgb(0, 53, 128);
+  color: white;
+  position: relative;
+}
+.header {
+  position: absolute;
+  left: 10%;
+  bottom: -5%;
+}
+.home-page {
+  margin: 50px 24px;
+}
+.home-footer {
+  margin: 40px 20px;
+}

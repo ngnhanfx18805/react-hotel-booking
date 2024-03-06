@@ -1,0 +1,15 @@
+.homepagecity {
+  display: block;
+  color: white;
+}
+
+.homepagecity img {
+  border-radius: 20px;
+  width: 100%;
+}
+
+.text {
+  position: relative;
+  bottom: 100px;
+  left: 10px;
+}

@@ -1,0 +1,24 @@
+.register {
+  background-color: rgb(0, 53, 128);
+  line-height: 3;
+  color: white;
+  text-align: center;
+  position: relative;
+  padding-bottom: 80px;
+  padding-top: 40px;
+}
+
+.register input {
+  height: 42px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.register button {
+  background-color: rgb(0, 113, 194);
+  border: none;
+  height: 42px;
+  border-radius: 5px;
+
+  color: white;
+}
